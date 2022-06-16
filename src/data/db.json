@@ -1,5 +1,82 @@
 {
-    "slide": [
-        {}
-    ]
+  "slide": [
+    {
+      "id": 0,
+      "type": 1,
+      "url": "",
+      "link": ""
+    },
+    {
+      "type": "1",
+      "url": "https://lienquan.garena.vn/files/upload/images/1920x864%2843%29.jpg",
+      "link": "",
+      "createdAt": {
+        "day": "16-6-2022",
+        "time": "15h43m37s"
+      },
+      "updateAt": {
+        "day": "16-6-2022",
+        "time": "15h48m52s"
+      },
+      "id": 1,
+      "description": "ngộ không"
+    },
+    {
+      "type": "1",
+      "url": "https://lienquan.garena.vn/files/upload/images/1920x864%2842%29.jpg",
+      "link": "",
+      "createdAt": {
+        "day": "16-6-2022",
+        "time": "21h27m5s"
+      },
+      "updateAt": {
+        "day": "16-6-2022",
+        "time": "21h27m5s"
+      },
+      "id": 2
+    },
+    {
+      "type": "1",
+      "url": "https://lienquan.garena.vn/files/upload/images/1920X846%281%29.jpg",
+      "link": "",
+      "createdAt": {
+        "day": "16-6-2022",
+        "time": "21h27m23s"
+      },
+      "updateAt": {
+        "day": "16-6-2022",
+        "time": "21h27m23s"
+      },
+      "id": 3
+    },
+    {
+      "type": "1",
+      "url": "https://lienquan.garena.vn/files/upload/images/SeaTalk_IMG_1654505544.jpg",
+      "link": "",
+      "createdAt": {
+        "day": "16-6-2022",
+        "time": "21h27m54s"
+      },
+      "updateAt": {
+        "day": "16-6-2022",
+        "time": "21h27m54s"
+      },
+      "id": 4
+    },
+    {
+      "type": "1",
+      "url": "https://lienquan.garena.vn/files/upload/images/1920x864%20%284%29.jpg",
+      "link": "",
+      "createdAt": {
+        "day": "16-6-2022",
+        "time": "21h28m13s"
+      },
+      "updateAt": {
+        "day": "16-6-2022",
+        "time": "21h28m13s"
+      },
+      "id": 5
+    }
+  ],
+  "posts": []
 }
