@@ -1,12 +1,6 @@
 {
   "slide": [
     {
-      "id": 0,
-      "type": 1,
-      "url": "",
-      "link": ""
-    },
-    {
       "type": "1",
       "url": "https://lienquan.garena.vn/files/upload/images/1920x864%2843%29.jpg",
       "link": "",
@@ -158,13 +152,6 @@
     }
   ],
   "posts": [
-    {
-      "id": 0,
-      "title": "",
-      "date": "",
-      "description": "",
-      "img": ""
-    },
     {
       "title": "DỄ DÀNG THUẦN THỤC YORN VỚI 3 MẸO NHỎ",
       "date": "20/05/2022",
