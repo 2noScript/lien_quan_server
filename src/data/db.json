@@ -523,12 +523,6 @@
   ],
   "free-general": [
     {
-      "id": 0,
-      "name": "",
-      "avatar": "",
-      "img": ""
-    },
-    {
       "id": "1",
       "name": "azzen'ka",
       "avatar": "https://lienquan.garena.vn/files/free_champions/67bd01ee2708589e83cf48a670bb15255d63c592846d4.png",
@@ -539,7 +533,7 @@
       },
       "updateAt": {
         "day": "21-6-2022",
-        "time": "10h2m11s"
+        "time": "15h41m48s"
       }
     },
     {
