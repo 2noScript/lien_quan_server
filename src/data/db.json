@@ -520,5 +520,97 @@
       },
       "id": 23
     }
+  ],
+  "free-general": [
+    {
+      "id": 0,
+      "name": "",
+      "avatar": "",
+      "img": ""
+    },
+    {
+      "id": "1",
+      "name": "azzen'ka",
+      "avatar": "https://lienquan.garena.vn/files/free_champions/67bd01ee2708589e83cf48a670bb15255d63c592846d4.png",
+      "img": "https://lienquan.garena.vn/files/free_champions/67bd01ee2708589e83cf48a670bb15255d63c59285fba.png",
+      "createdAt": {
+        "day": "21-6-2022",
+        "time": "10h2m11s"
+      },
+      "updateAt": {
+        "day": "21-6-2022",
+        "time": "10h2m11s"
+      }
+    },
+    {
+      "name": "xeniel",
+      "avatar": "https://lienquan.garena.vn/files/free_champions/b337703499572ff6b074da4e0c2c37825a93c9da8f97c.png",
+      "img": "https://lienquan.garena.vn/files/free_champions/0f903bb4c3431e576676a86464b9c1f95ddcd48299048.png",
+      "createdAt": {
+        "day": "21-6-2022",
+        "time": "10h4m1s"
+      },
+      "updateAt": {
+        "day": "21-6-2022",
+        "time": "10h4m1s"
+      },
+      "id": "lomc8oO"
+    },
+    {
+      "name": "thane",
+      "avatar": "https://lienquan.garena.vn/files/free_champions/5e24def8a3ad4011e78a368ff21f294259225f45b5fea.png",
+      "img": "https://lienquan.garena.vn/files/free_champions/ea72616fd3e42e359af015767759c2935ddcd37e7be3b.png",
+      "createdAt": {
+        "day": "21-6-2022",
+        "time": "10h5m55s"
+      },
+      "updateAt": {
+        "day": "21-6-2022",
+        "time": "10h5m55s"
+      },
+      "id": "XNI4-fr"
+    },
+    {
+      "name": "slimz",
+      "avatar": "https://lienquan.garena.vn/files/free_champions/d5f407882d37eeaee394ca3734099e4559757ac93535d.png",
+      "img": "https://lienquan.garena.vn/files/free_champions/94f778d9bae77f0d8533dba4e0b9e50c5ddcd2bd34d7f.png",
+      "createdAt": {
+        "day": "21-6-2022",
+        "time": "10h6m33s"
+      },
+      "updateAt": {
+        "day": "21-6-2022",
+        "time": "10h6m33s"
+      },
+      "id": "-E-Vph_"
+    },
+    {
+      "name": "murad",
+      "avatar": "https://lienquan.garena.vn/files/free_champions/8c31ae4c176b250db2f14732389a3e7259d33f15ac4fc.png",
+      "img": "https://lienquan.garena.vn/files/free_champions/c83fa58477da41640d60a60e2bcfaaab5ddcd167597f4.png",
+      "createdAt": {
+        "day": "21-6-2022",
+        "time": "10h7m18s"
+      },
+      "updateAt": {
+        "day": "21-6-2022",
+        "time": "10h7m18s"
+      },
+      "id": "A0ssYnE"
+    },
+    {
+      "name": "astrid",
+      "avatar": "https://lienquan.garena.vn/files/free_champions/0df51fbe1aedacb43acc27fc674ff22a5a780b35047a0.png",
+      "img": "https://lienquan.garena.vn/files/free_champions/0df51fbe1aedacb43acc27fc674ff22a5a780b3507cc7.png",
+      "createdAt": {
+        "day": "21-6-2022",
+        "time": "10h7m51s"
+      },
+      "updateAt": {
+        "day": "21-6-2022",
+        "time": "10h7m51s"
+      },
+      "id": "p9NnCPg"
+    }
   ]
 }
